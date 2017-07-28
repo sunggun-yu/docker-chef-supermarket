@@ -1,0 +1,6 @@
+# Mac Directory #
+.DS_Store
+
+# Intellij Project Files #
+.idea
+*.iml
