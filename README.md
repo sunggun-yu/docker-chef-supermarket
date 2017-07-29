@@ -44,13 +44,12 @@ docker run -d --privileged  \
   sunggun/chef-supermarket:3.1.22
 ```
 
-## Access to the Chef Manage Console
+## Access to the Chef Supermarket
 
-You can access and login to the chef manage console through web browser. 
+You can access and login to the chef supermarket through web browser. 
 ```
 https://<your-host>
 ```
-please use user name `admin` and password `admin123` to login. and don't forget to reset password and key once you login.
 
 
 ## Build the Image
